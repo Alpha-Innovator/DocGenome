@@ -13,6 +13,7 @@ We present DocGenome, a structured document dataset constructed by annotating 50
 
 
 ## Release
+- [2025/1/13] Release the Document parsing tools [DocParser](https://github.com/Alpha-Innovator/DocParser)
 - [2024/9/5] 🔥 Add the **data quality rating** for each structured document in DocGenome [here](https://huggingface.co/datasets/U4R/DocGenome/blob/main/tire_classification_train.json)
 - [2024/8/27] Add the tutorials on how to use the [DocGenome dataset](https://github.com/UniModal4Reasoning/DocGenome/blob/main/tutorials/tutorial.ipynb).
 - [2024/8/7] Add the detalied explanation about the different file structures in DocGenome.[Dataset_Details_README](Dataset_Details_README.md)
